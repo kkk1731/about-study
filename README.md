@@ -3,4 +3,4 @@
 
 #result
 既に学会や中間発表等で発表した範囲での結果を 
-[mycro bench result](/mycro_bench_result.pdf)
+[mycro bench result](/micro_bench_result.pdf)
